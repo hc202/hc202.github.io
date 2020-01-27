@@ -3,4 +3,4 @@
 <a href= "tree.html"> christmas tree </a>
 <br>
 <p> Play my Pong game </p>
-<a href= "index.html"> play pong </a>
+<a href= "pongindex.html"> play pong </a>
